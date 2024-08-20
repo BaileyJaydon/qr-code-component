@@ -34,4 +34,5 @@ body {
 .text-secondary {
   font-weight: 400;
   font-size: large;
+  color: grey;
 }
